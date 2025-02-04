@@ -17,3 +17,6 @@ Object Instantiation & Execution: The main method in each program creates object
 Class and Object Usage: The code defines multiple classes (e.g., Book, Student, BankAccount, etc.), each with attributes and methods to model real-world entities.
 Encapsulation and Access Modifiers: Private (private), protected (protected), and public (public) access modifiers are used to restrict direct access to class attributes and enforce controlled access through getter and setter methods.
 Inheritance and Constructor Overloading: Subclasses (e.g., PostgraduateStudent, EBook, SavingsAccount, Manager) extend base classes to inherit properties, and constructor overloading is used to initialize objects with default and parameterized values.
+
+--04/02/2025 Today's Summary:
+ this, static, final key words and instanceof Operator practice questions solved and uploaded on github
