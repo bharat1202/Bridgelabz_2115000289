@@ -20,3 +20,9 @@ Inheritance and Constructor Overloading: Subclasses (e.g., PostgraduateStudent, 
 
 --04/02/2025 Today's Summary:
  this, static, final key words and instanceof Operator practice questions solved and uploaded on github
+
+ --07-02-2025 Today's Summary:
+ inheritance  practice questions solved and uploaded on github
+
+--10-02-2025 Today's Summary:
+Encapsulation, Polymorphism, Interface and Abstract Class practice quastions solved and uploaded on github
