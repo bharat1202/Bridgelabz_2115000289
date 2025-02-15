@@ -34,3 +34,6 @@ Inheritance and Constructor Overloading: Subclasses (e.g., PostgraduateStudent, 
 
 --10-02-2025 Today's Summary:
 Encapsulation, Polymorphism, Interface and Abstract Class practice quastions solved and uploaded on github
+
+--15-02-2025 Today's Summary:
+Linear and Binary Search  practice questions solved and uploaded on github
