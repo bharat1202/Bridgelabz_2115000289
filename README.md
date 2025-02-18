@@ -40,3 +40,6 @@ Linear and Binary Search  practice questions solved and uploaded on github
 
 --17-02-2025 Today's Summary:
 Algorithm's Runtime Analysis & Big-O Notation  practice questions solved and uploaded on github
+
+--18-02-2025 Today's Summary:
+Java Generics practice questions solved and uploaded on github
