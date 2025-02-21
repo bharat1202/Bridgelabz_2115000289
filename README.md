@@ -44,5 +44,8 @@ Algorithm's Runtime Analysis & Big-O Notation  practice questions solved and upl
 --18-02-2025 Today's Summary:
 Java Generics practice questions solved and uploaded on github
 
+--20-02-2025 Today's Summary:
+java collections practice questions solved and uploaded on github
+
 --21-02-2025 Today's Summary:
 java exception handling and java streams  practice questions solved and uploaded on github
