@@ -52,3 +52,6 @@ java exception handling and java streams  practice questions solved and uploaded
 
 --22-02-2025 Today's Summary:
 Regex and Junit  practice questions solved and uploaded on github
+
+--24-02-2025 Today's Summary:
+Annotation and Reflections  practice questions solved and uploaded on github
